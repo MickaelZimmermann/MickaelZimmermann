@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Java with Atol CD and preparing the Professional Title with O'clock school.
+
 <!--
 **MickaelZimmermann/MickaelZimmermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
