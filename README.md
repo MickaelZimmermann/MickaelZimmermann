@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mickaelzimmermann" alt="mickaelzimmermann" /></a> </p>
 
-- 🌱 I’m currently learning **with O'clock School**
+- I’m currently searching for a new job
 
-- 📫 How to reach me **zimmermann.mickael42@gmail.com**
+- How to reach me **zimmermann.mickael42@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
